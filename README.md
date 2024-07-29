@@ -7,7 +7,7 @@
 -  Educational Background: BSc | Majors: Physics and Mathematics | June 2018 | Westminster College | Salt Lake City Utah USA.
 - I am currently trying to learn concepts about ML etc. via Coursera, and I am activley seeking Job Opportunties.
 - [Link to View My LinkedIn Profile](https://www.linkedin.com/in/kaushik-chakram-suresh/)
-
+- [Link to View My Kaggle Profile](https://www.kaggle.com/kaushikchakram)
 <!---
 kaushikchakram/kaushikchakram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
